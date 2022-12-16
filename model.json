@@ -1,0 +1,113 @@
+[
+
+
+ {
+  "Column5": "CONTACT:",
+  "09\/11\/22": "REKIK SELIM"
+ },
+ {
+  "09\/11\/22": "MONDIALFOOD93@GMAIL.COM"
+ },
+
+ {
+  "M O N D I A L   F O O D": "Lieu de chargement",
+  "Column2": "Destinataire",
+  "Column3": "Adresse",
+  "DATE DE CHARGEMENT :": "Code Postal",
+  "Column5": "Localité",
+  "09\/11\/22": "Transporteur",
+  "Column7": "REF\ncommande MDLF"
+ },
+ {
+  "M O N D I A L   F O O D": "ENTREPOT TRAPPES",
+  "Column2": "MHD",
+  "09\/11\/22": "MONDIAL",
+  "Column7": "5385"
+ },
+
+ {
+  "M O N D I A L   F O O D": "REFERENCE",
+  "Column2": "Nombre de Colis",
+  "Column3": "PRODUIT MONDIAL FOOD",
+  "DATE DE CHARGEMENT :": "Poids unit",
+  "Column5": "T ° C",
+  "09\/11\/22": "Poids total",
+  "Column7": "PVHT IDF"
+ },
+ {
+  "M O N D I A L   F O O D": "MF005",
+  "Column2": 2,
+  "Column3": "MELOUI 25 Pcs",
+  "DATE DE CHARGEMENT :": 10.5,
+  "Column5": "SURGELE",
+  "09\/11\/22": 21
+ },
+ {
+  "M O N D I A L   F O O D": "MF002",
+  "Column2": 2,
+  "Column3": "ELMESAMEN 4 Pcs",
+  "DATE DE CHARGEMENT :": 7.68,
+  "Column5": "SURGELE",
+  "09\/11\/22": 15.36
+ },
+ {
+  "M O N D I A L   F O O D": "MF009",
+  "Column2": 2,
+  "Column3": "ELMESAMEN 10 Pcs",
+  "DATE DE CHARGEMENT :": 8.18,
+  "Column5": "SURGELE",
+  "09\/11\/22": 16.36
+ },
+ {
+  "M O N D I A L   F O O D": "MF0015",
+  "Column2": 1,
+  "Column3": "PIZZA ATUN MIA CASA",
+  "DATE DE CHARGEMENT :": 2.28,
+  "Column5": "SURGELE",
+  "09\/11\/22": 2.28
+ },
+ {
+  "M O N D I A L   F O O D": "MF0016",
+  "Column2": 1,
+  "Column3": "PIZZA 4 QUESOS MIA CASA",
+  "DATE DE CHARGEMENT :": 2.04,
+  "Column5": "SURGELE",
+  "09\/11\/22": 2.04
+ },
+ {
+  "M O N D I A L   F O O D": "MF0044",
+  "Column2": 2,
+  "Column3": "MANGO CHUNKS",
+  "DATE DE CHARGEMENT :": 6,
+  "Column5": "SURGELE",
+  "09\/11\/22": 12
+ },
+ {
+  "M O N D I A L   F O O D": "MF0054",
+  "Column2": 1,
+  "Column3": "PETITS POIS FINS",
+  "DATE DE CHARGEMENT :": 8,
+  "Column5": "SURGELE",
+  "09\/11\/22": 8
+ },
+ {
+  "M O N D I A L   F O O D": "MF0112",
+  "Column2": 1,
+  "Column3": "PATE A KESRA SURGELEE",
+  "DATE DE CHARGEMENT :": 7,
+  "09\/11\/22": 7
+ },
+
+ {
+  "M O N D I A L   F O O D": "TOTAL COLIS",
+  "Column2": 12,
+  "Column3": "INFORMATIONS SUPLEMENTAIRES :"
+ },
+ {
+  "M O N D I A L   F O O D": "NBR PALETTE "
+ },
+ {
+  "M O N D I A L   F O O D": "POIDS TOTAL",
+  "Column2": 84.03999999999999
+ }
+]
